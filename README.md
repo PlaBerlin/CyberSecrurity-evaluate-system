@@ -1,12 +1,8 @@
-# CyberSecrurity-evaluate-system
-网络安全项目组共享开发文档库
+# Problem-D-notebook
+D题 前两问 数据处理+pca
 
-需求明确：需求分析的进一步明确
+01insert_value：数据预处理
 
-业务流程分析：具体业务逻辑线分析
+02prepared_pca：pca之前的数据准备
 
-数据库设计：类图及其重要字段
-
-接口规范设计:调用接口及参数得规范化
-
-数据结构设计：主类、中间类的定义
+03pca_features：进行pca
